@@ -10,13 +10,14 @@ The user-friendly experience provided by Tourify is exemplified by features such
 
 
 # Tools
+
 This project is designed by utilising Deep Learning technology using Convolutional Neural Network (CNN) and Transfer Learning algorithms. Below are some of the libraries used in this project.
 
-Python: 3.10.12
-TensorFlow: 2.15.0
-Keras: 2.15.0
-scikit-learn: 1.2.2
-pandas: 1.5.3
-numpy: 1.23.5
-matplotlib : 3.7.1
+- Python: 3.10.12
+- TensorFlow: 2.15.0
+- Keras: 2.15.0
+- scikit-learn: 1.2.2
+- pandas: 1.5.3
+- numpy: 1.23.5
+- matplotlib: 3.7.1
 
