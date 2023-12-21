@@ -9,7 +9,7 @@ Tourify is a valuable resource for tour guides navigating the challenges of digi
 The user-friendly experience provided by Tourify is exemplified by features such as the scanning object functionality. Imagine encountering a historic monument for the first time, unsure of its name or simply disinclined to conduct a search on a search engine. Tourify has the solution, a one-time scan using the application yields essential information about the historical monument, eliminating the hassle for users.
 
 
-#Tools
+# Tools
 This project is designed by utilising Deep Learning technology using Convolutional Neural Network (CNN) and Transfer Learning algorithms. Below are some of the libraries used in this project.
 
 Python: 3.10.12
